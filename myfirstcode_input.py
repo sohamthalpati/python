@@ -2,4 +2,4 @@
 
 name= input("What is your name")
 age = input("What is your age")
-print("Hello"+name,"YOUR AGE is"+age)
+print("Hello"+name,"Your age is"+age)
