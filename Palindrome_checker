@@ -1,0 +1,7 @@
+a = input('Enter the word you want to input') 
+    
+if a == a[::-1]:{
+    print('The word is a palindrome')}
+    
+else:{
+    print('The word is not a palindrome')}
